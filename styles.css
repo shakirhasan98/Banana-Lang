@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Raleway:ital,wght@1,300&display=swap'); 
+
+#head{
+    background-color: #facc15;
+    padding: 2rem 1rem;
+    margin-top: 0%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+textarea{
+    width:50%;
+    height: 8vh;
+    display: block;
+    margin: auto;
+    padding: 1rem;
+    font-size: large;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+#output{
+    border: 1px solid black;
+    height: 8vh;
+    width: 50%;
+    margin: auto;
+    padding: 1rem;
+    background-color: white;
+    padding-top: 2rem;
+}
+
+body{
+    margin: 0px;
+    text-align: center;
+    
+}
+
+#btn-translate{
+    margin: 1rem 1rem;
+    background-color: #facc15;
+    padding: 0.7rem 0.7rem;
+    font-size: medium;
+    font-weight: 500;
+    border: #facc15;
+    font-family: 'Montserrat', sans-serif;
+
+    
+}
+
+#outputind{
+    padding-top: 2rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer{
+    padding: 2rem;
+    text-align: center;
+    color: black;
+    margin-top: 4rem;
+    background-color: #facc15;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer-heading{
+    margin-left: 2rem;
+}
+
+.footer .link{
+    color:black;
+    text-decoration: dotted;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.inline-bullet-lists{
+    display: inline;
+    padding: 0rem 0.5rem;
+    text-decoration: none;
+}
